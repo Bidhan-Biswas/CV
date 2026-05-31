@@ -45,4 +45,3 @@ steps:
       git add .
       git commit -m "Automated update of talk locations" || echo "No changes to commit"
       git push
-```
